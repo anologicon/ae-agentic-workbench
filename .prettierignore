@@ -1,0 +1,6 @@
+node_modules
+dist
+.workbench
+package-lock.json
+README.md
+docs/IMPLEMENTATION_PLAN_V1.md
